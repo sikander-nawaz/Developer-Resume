@@ -639,7 +639,7 @@ const OtherProjects = () => {
             Full Stack E-Commerce Mobile App Frontend
           </div>
           {/* Description */}
-          <div className="mt-5 h-[40%] mt-[10px] bg-[#172a45] antialiased text-[17px] text-[#a8b2d1] font-calibri leading-[1.3] opScreen5:h-[32%] opScreen6:h-[35%] opScreen7:h-[35%] opScreen13:h-[30%] opScreen16:mt-[30px] opScreen17:h-[44%]">
+          <div className="h-[40%] mt-[10px] bg-[#172a45] antialiased text-[17px] text-[#a8b2d1] font-calibri leading-[1.3] opScreen5:h-[32%] opScreen6:h-[35%] opScreen7:h-[35%] opScreen13:h-[30%] opScreen16:mt-[30px] opScreen17:h-[44%]">
             E-commerce mobile app with user registration, product catalog, cart,
             wishlist, checkout, payment, order tracking, and admin dashboard.
           </div>
@@ -717,7 +717,7 @@ const OtherProjects = () => {
             Full Stack E-Commerce Mobile App Backend
           </div>
           {/* Description */}
-          <div className=" mt-5 h-[40%] mt-[10px] bg-[#172a45] antialiased text-[17px] text-[#a8b2d1] font-calibri leading-[1.3] opScreen7:h-[35%] opScreen12:mt-[20px] opScreen13:h-[30%] opScreen16:mt-[30px] opScreen17:h-[44%] opScreen20:h-[50%]">
+          <div className="h-[40%] mt-[10px] bg-[#172a45] antialiased text-[17px] text-[#a8b2d1] font-calibri leading-[1.3] opScreen7:h-[35%] opScreen12:mt-[20px] opScreen13:h-[30%] opScreen16:mt-[30px] opScreen17:h-[44%] opScreen20:h-[50%]">
             Manages data, handles business logic, and provides APIs for frontend
             interactions, including user authentication, product management, and
             search functionality.
@@ -795,7 +795,7 @@ const OtherProjects = () => {
             TODO List Mobile App
           </div>
           {/* Description */}
-          <div className=" mt-5 sh-[40%] mt-[10px] bg-[#172a45] antialiased text-[17px] text-[#a8b2d1] font-calibri leading-[1.3] opScreen5:h-[37%] opScreen6:h-[40%] opScreen7:h-[35%] opScreen13:h-[30%] opScreen16:mt-[30px] opScreen17:h-[44%]">
+          <div className="sh-[40%] mt-[10px] bg-[#172a45] antialiased text-[17px] text-[#a8b2d1] font-calibri leading-[1.3] opScreen5:h-[37%] opScreen6:h-[40%] opScreen7:h-[35%] opScreen13:h-[30%] opScreen16:mt-[30px] opScreen17:h-[44%]">
             Organize tasks, set reminders, and track progress with a
             user-friendly interface for efficient task management.
           </div>
@@ -872,7 +872,7 @@ const OtherProjects = () => {
             CRUD - ReactJS, Firebase
           </div>
           {/* Description */}
-          <div className="mt-5 h-[40%] mt-[10px] bg-[#172a45] antialiased text-[17px] text-[#a8b2d1] font-calibri leading-[1.3] opScreen1:h-[45%] opScreen5:h-[37%] opScreen6:h-[39%] opScreen7:h-[37%] opScreen13:h-[30%] opScreen16:mt-[30px] opScreen17:h-[44%] opScreen23:h-[48%]">
+          <div className="h-[40%] mt-[10px] bg-[#172a45] antialiased text-[17px] text-[#a8b2d1] font-calibri leading-[1.3] opScreen1:h-[45%] opScreen5:h-[37%] opScreen6:h-[39%] opScreen7:h-[37%] opScreen13:h-[30%] opScreen16:mt-[30px] opScreen17:h-[44%] opScreen23:h-[48%]">
             Create, Read, Update, and Delete data seamlessly with a dynamic and
             interactive user interface.
           </div>
