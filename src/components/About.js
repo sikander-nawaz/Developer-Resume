@@ -112,7 +112,7 @@ const About = ({ aboutBtnClickedActive }) => {
       >
         <div className="inline-block absolute top-[105px] text-[#64ffda] font-customMono text-headerDescriptionFontSize font-normal antialiased aboutScreen3:top-[100px]">
           01.
-        </div>{" "}
+        </div>
         <div className="aboutMe inline-block ml-12 bottom-0 text-[#ccd6f6] text-[32px] font-calibri font-semibold antialiased relative z-[50] aboutScreen1:w-[7.4rem]">
           About Me
           <div className="z-[50] w-[10%] inline-block h-[100%] absolute bottom-0 aboutScreen1:hidden"></div>
@@ -147,7 +147,7 @@ const About = ({ aboutBtnClickedActive }) => {
                 target="_blank"
               >
                 Saylani Welfare Mass Training & Job Creation Program&nbsp;
-              </a>{" "}
+              </a>
             </div>
             I've taught 1000+ students by simplifying complex programming
             concepts (wanna see how I provide training to my students?
@@ -158,12 +158,12 @@ const About = ({ aboutBtnClickedActive }) => {
                 target="_blank"
               >
                 &nbsp; click here
-              </a>{" "}
+              </a>
             </div>
             ).
             <br />
             <br />I helped over 100 international folks around the globe🌍 solve
-            coding problems in <b>Python</b> as a{" "}
+            coding problems in <b>Python</b> as a
             <div className="relative inline-block">
               <a
                 className="text-[#64ffda] transition-GetInTouchButtonTransitionProperty  duration-GetInTouchButtonTransitionDuration  ease-GetInTouchButtonTransitionTiming cursor-pointer font-calibri text-[20px] aboutScreen4:block"
@@ -171,9 +171,9 @@ const About = ({ aboutBtnClickedActive }) => {
                 target="_blank"
               >
                 &nbsp;Section Leader&nbsp;
-              </a>{" "}
+              </a>
             </div>
-            and{" "}
+            and
             <div className="relative inline-block">
               <a
                 className="text-[#64ffda] transition-GetInTouchButtonTransitionProperty  duration-GetInTouchButtonTransitionDuration  ease-GetInTouchButtonTransitionTiming cursor-pointer font-calibri text-[20px] aboutScreen4:block"
@@ -181,9 +181,9 @@ const About = ({ aboutBtnClickedActive }) => {
                 target="_blank"
               >
                 &nbsp;Section Leader Mentor&nbsp;
-              </a>{" "}
+              </a>
             </div>
-            (𝘵𝘦𝘢𝘤𝘩𝘪𝘯𝘨 𝘰𝘯𝘦-𝘰𝘯-𝘰𝘯𝘦) at{" "}
+            (𝘵𝘦𝘢𝘤𝘩𝘪𝘯𝘨 𝘰𝘯𝘦-𝘰𝘯-𝘰𝘯𝘦) at
             <div className="relative inline-block">
               <a
                 className="text-[#64ffda] transition-GetInTouchButtonTransitionProperty  duration-GetInTouchButtonTransitionDuration  ease-GetInTouchButtonTransitionTiming cursor-pointer font-calibri text-[20px] aboutScreen4:block"
@@ -191,7 +191,7 @@ const About = ({ aboutBtnClickedActive }) => {
                 target="_blank"
               >
                 &nbsp;Stanford's Code in Place&nbsp;
-              </a>{" "}
+              </a>
             </div>
             .
             <br />
@@ -203,7 +203,7 @@ const About = ({ aboutBtnClickedActive }) => {
                 target="_blank"
               >
                 &nbsp;participated&nbsp;
-              </a>{" "}
+              </a>
             </div>
             in multiple AI International Hackathons and
             <div className="relative inline-block">
@@ -213,7 +213,7 @@ const About = ({ aboutBtnClickedActive }) => {
                 target="_blank"
               >
                 &nbsp;won&nbsp;
-              </a>{" "}
+              </a>
             </div>
             one of them (Unhallucinate Challenge).
             <br />
@@ -224,7 +224,7 @@ const About = ({ aboutBtnClickedActive }) => {
               target="_blank"
             >
               &nbsp;University of Agriculture, Faisalabad
-            </a>{" "}
+            </a>
             in June, 2024.
             <br />
             <br />I aim to pursue further studies in the United States to
@@ -240,13 +240,13 @@ const About = ({ aboutBtnClickedActive }) => {
               <div className="w-[30vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 C
               </div>
               <div className="w-[30vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 C++
               </div>
             </div>
@@ -254,13 +254,13 @@ const About = ({ aboutBtnClickedActive }) => {
               <div className="w-[30vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 Dart
               </div>
               <div className="w-[30vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 Java (OOP + DSA)
               </div>
             </div>
@@ -268,13 +268,13 @@ const About = ({ aboutBtnClickedActive }) => {
               <div className="w-[30vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 Python
               </div>
               <div className="w-[30vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 JavaScript (ES6+)
               </div>
             </div>
@@ -282,13 +282,13 @@ const About = ({ aboutBtnClickedActive }) => {
               <div className="w-[30vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 Typescript
               </div>
               <div className="w-[30vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 HTML5
               </div>
             </div>
@@ -296,13 +296,13 @@ const About = ({ aboutBtnClickedActive }) => {
               <div className="w-[30vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 CSS3
               </div>
               <div className="w-[30vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 SCSS, SASS
               </div>
             </div>
@@ -310,13 +310,13 @@ const About = ({ aboutBtnClickedActive }) => {
               <div className="w-[30vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 Chakra-UI
               </div>
               <div className="w-[30vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 Aunt-Design
               </div>
             </div>
@@ -324,13 +324,13 @@ const About = ({ aboutBtnClickedActive }) => {
               <div className="w-[30vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 Bootstrap-5
               </div>
               <div className="w-[30vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 React-JS
               </div>
             </div>
@@ -338,13 +338,13 @@ const About = ({ aboutBtnClickedActive }) => {
               <div className="w-[30vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 React-Native
               </div>
               <div className="w-[30vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 Firebase
               </div>
             </div>
@@ -352,13 +352,13 @@ const About = ({ aboutBtnClickedActive }) => {
               <div className="w-[30vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 FireStore
               </div>
               <div className="w-[30vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 Node-JS
               </div>
             </div>
@@ -366,13 +366,13 @@ const About = ({ aboutBtnClickedActive }) => {
               <div className="w-[30vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 Express-JS
               </div>
               <div className="w-[30vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 Mongo-DB
               </div>
             </div>
@@ -380,13 +380,13 @@ const About = ({ aboutBtnClickedActive }) => {
               <div className="w-[30vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 Git
               </div>
               <div className="w-[30vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 Github
               </div>
             </div>
@@ -394,13 +394,13 @@ const About = ({ aboutBtnClickedActive }) => {
               <div className="w-[30vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 Rest-APIs
               </div>
               <div className="w-[30vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 GraphQL
               </div>
             </div>
@@ -408,13 +408,13 @@ const About = ({ aboutBtnClickedActive }) => {
               <div className="w-[30vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 Generative AI
               </div>
               <div className="w-[30vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 LLMs
               </div>
             </div>
@@ -482,7 +482,7 @@ const About = ({ aboutBtnClickedActive }) => {
                 target="_blank"
               >
                 &nbsp;Saylani Welfare Mass Training & Job Creation Program
-              </a>{" "}
+              </a>
             </div>
             I've taught 1000+ students by simplifying complex programming
             concepts (wanna see how I provide training to my students?
@@ -493,7 +493,7 @@ const About = ({ aboutBtnClickedActive }) => {
                 target="_blank"
               >
                 &nbsp;click here&nbsp;
-              </a>{" "}
+              </a>
             </div>
             ).
             <br />
@@ -506,7 +506,7 @@ const About = ({ aboutBtnClickedActive }) => {
                 target="_blank"
               >
                 &nbsp;Section Leader&nbsp;
-              </a>{" "}
+              </a>
             </div>
             and
             <div className="relative inline-block">
@@ -516,9 +516,9 @@ const About = ({ aboutBtnClickedActive }) => {
                 target="_blank"
               >
                 &nbsp;Section Leader Mentor&nbsp;
-              </a>{" "}
+              </a>
             </div>
-            (𝘵𝘦𝘢𝘤𝘩𝘪𝘯𝘨 𝘰𝘯𝘦-𝘰𝘯-𝘰𝘯𝘦) at{" "}
+            (𝘵𝘦𝘢𝘤𝘩𝘪𝘯𝘨 𝘰𝘯𝘦-𝘰𝘯-𝘰𝘯𝘦) at
             <div className="relative inline-block">
               <a
                 className="spanOneHoverClass text-[#64ffda] cursor-pointer font-calibri text-[20px] aboutScreen4:block"
@@ -526,7 +526,7 @@ const About = ({ aboutBtnClickedActive }) => {
                 target="_blank"
               >
                 &nbsp;Stanford's Code in Place&nbsp;
-              </a>{" "}
+              </a>
             </div>
             .
             <br />
@@ -538,7 +538,7 @@ const About = ({ aboutBtnClickedActive }) => {
                 target="_blank"
               >
                 &nbsp;participated&nbsp;
-              </a>{" "}
+              </a>
             </div>
             in multiple AI International Hackathons and
             <div className="relative inline-block">
@@ -548,7 +548,7 @@ const About = ({ aboutBtnClickedActive }) => {
                 target="_blank"
               >
                 &nbsp;won&nbsp;
-              </a>{" "}
+              </a>
             </div>
             one of them (Unhallucinate Challenge).
             <br />
@@ -560,7 +560,7 @@ const About = ({ aboutBtnClickedActive }) => {
                 target="_blank"
               >
                 &nbsp;University of Agriculture, Faisalabad
-              </a>{" "}
+              </a>
               in June, 2024.
             </div>
             <br />
@@ -580,7 +580,7 @@ const About = ({ aboutBtnClickedActive }) => {
             <div className="relative inline-block">
               <a className="spanOneHoverClass text-[#64ffda] font-calibri text-[20px] aboutScreen4:block">
                 &nbsp; Tech Trainer &nbsp;
-              </a>{" "}
+              </a>
             </div>
             within the
             <div className="relative inline-block">
@@ -591,7 +591,7 @@ const About = ({ aboutBtnClickedActive }) => {
               >
                 &nbsp;Saylani Welfare Mass Training & Job Creation
                 Program.&nbsp;
-              </a>{" "}
+              </a>
             </div>
             This teaching experience has allowed me to impart comprehensive
             lessons on programming languages and technologies, including HTML,
@@ -606,8 +606,8 @@ const About = ({ aboutBtnClickedActive }) => {
                 target="_blank"
               >
                 &nbsp; DSA &nbsp;
-              </a>{" "}
-            </div>{" "}
+              </a>
+            </div>
             Problem on
             <div className="relative inline-block">
               <a
@@ -616,14 +616,14 @@ const About = ({ aboutBtnClickedActive }) => {
                 target="_blank"
               >
                 &nbsp;leetcode&nbsp;
-              </a>{" "}
-            </div>{" "}
+              </a>
+            </div>
             to improve my coding skills.I am an
             <div className="relative inline-block">
               <a className="spanOneHoverClass text-[#64ffda] font-calibri text-[20px] aboutScreen4:block">
                 &nbsp;open-source enthusiast &nbsp;
-              </a>{" "}
-            </div>{" "}
+              </a>
+            </div>
             who is eager to explore new opportunities within the realm of
             open-source development. My goal is to enhance my skills by working
             on substantial codebases and contributing to the open-source
@@ -635,7 +635,7 @@ const About = ({ aboutBtnClickedActive }) => {
                 target="_blank"
               >
                 &nbsp;University of Agriculture, Faisalabad.
-              </a>{" "}
+              </a>
             </div>
             <div className="text-[#8892b0] font-calibri text-[20px] leading-[1.3] antialiased mb-4 mt-4">
               Here are a few technologies I've been working with recently:
@@ -647,13 +647,13 @@ const About = ({ aboutBtnClickedActive }) => {
               <div className="w-[23vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem] aboutScreen9:w-[12.1rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 C
               </div>
               <div className="w-[23vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem] aboutScreen9:w-[12.1rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 C++
               </div>
             </div>
@@ -661,13 +661,13 @@ const About = ({ aboutBtnClickedActive }) => {
               <div className="w-[23vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem] aboutScreen9:w-[12.1rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 Dart
               </div>
               <div className="w-[23vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem] aboutScreen9:w-[12.1rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 Java
               </div>
             </div>
@@ -675,13 +675,13 @@ const About = ({ aboutBtnClickedActive }) => {
               <div className="w-[23vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem] aboutScreen9:w-[12.1rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 Python
               </div>
               <div className="w-[23vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem] aboutScreen9:w-[12.1rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 JavaScript (ES6+)
               </div>
             </div>
@@ -689,13 +689,13 @@ const About = ({ aboutBtnClickedActive }) => {
               <div className="w-[23vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem] aboutScreen9:w-[12.1rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 Typescript
               </div>
               <div className="w-[23vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem] aboutScreen9:w-[12.1rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 HTML5
               </div>
             </div>
@@ -703,13 +703,13 @@ const About = ({ aboutBtnClickedActive }) => {
               <div className="w-[23vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem] aboutScreen9:w-[12.1rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 CSS3
               </div>
               <div className="w-[23vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem] aboutScreen9:w-[12.1rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 SCSS, SASS
               </div>
             </div>
@@ -717,13 +717,13 @@ const About = ({ aboutBtnClickedActive }) => {
               <div className="w-[23vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem] aboutScreen9:w-[12.1rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 Chakra-UI
               </div>
               <div className="w-[23vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem] aboutScreen9:w-[12.1rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 Aunt-Design
               </div>
             </div>
@@ -731,13 +731,13 @@ const About = ({ aboutBtnClickedActive }) => {
               <div className="w-[23vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem] aboutScreen9:w-[12.1rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 Bootstrap-5
               </div>
               <div className="w-[23vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem] aboutScreen9:w-[12.1rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 React-JS
               </div>
             </div>
@@ -745,13 +745,13 @@ const About = ({ aboutBtnClickedActive }) => {
               <div className="w-[23vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem] aboutScreen9:w-[12.1rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 React-Native
               </div>
               <div className="w-[23vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem] aboutScreen9:w-[12.1rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 Firebase
               </div>
             </div>
@@ -759,13 +759,13 @@ const About = ({ aboutBtnClickedActive }) => {
               <div className="w-[23vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem] aboutScreen9:w-[12.1rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 FireStore
               </div>
               <div className="w-[23vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem] aboutScreen9:w-[12.1rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 Node-JS
               </div>
             </div>
@@ -773,13 +773,13 @@ const About = ({ aboutBtnClickedActive }) => {
               <div className="w-[23vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem] aboutScreen9:w-[12.1rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 Express-JS
               </div>
               <div className="w-[23vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem] aboutScreen9:w-[12.1rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 Mongo-DB
               </div>
             </div>
@@ -787,13 +787,13 @@ const About = ({ aboutBtnClickedActive }) => {
               <div className="w-[23vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem] aboutScreen9:w-[12.1rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 Git
               </div>
               <div className="w-[23vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem] aboutScreen9:w-[12.1rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 Github
               </div>
             </div>
@@ -801,13 +801,13 @@ const About = ({ aboutBtnClickedActive }) => {
               <div className="w-[23vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem] aboutScreen9:w-[12.1rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 Rest-APIs
               </div>
               <div className="w-[23vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem] aboutScreen9:w-[12.1rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 GraphQL
               </div>
             </div>
@@ -815,13 +815,13 @@ const About = ({ aboutBtnClickedActive }) => {
               <div className="w-[23vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem] aboutScreen9:w-[12.1rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 Generative AI
               </div>
               <div className="w-[23vw] inline-block font-customMono text-[13px] antialiased aboutScreen6:w-[10.5rem] aboutScreen9:w-[12.1rem]">
                 <span className="text-[#64ffda] text-[14px] leading-[12px]">
                   ➾
-                </span>{" "}
+                </span>
                 LLMs
               </div>
             </div>
