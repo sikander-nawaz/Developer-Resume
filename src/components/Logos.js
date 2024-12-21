@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import "../Css_applied/logoStyles.css";
-import leetcode from "../images/leetcode.svg";
+// import leetcode from "../images/leetcode.svg";
 const Logos = () => {
   // Hover
   const [githubSvgHover, setGithubSvgHover] = useState(false);
@@ -124,27 +124,6 @@ const Logos = () => {
                 </svg>
               </a>
             </div>
-            {/* Facebook SVG
-            <div className="w-[20px] h-[20px] mt-[1px]">
-              <a
-                href="https://www.facebook.com/ahmad.jajja.9081/"
-                className="text-[#ccd6f6] text-[1.1rem]"
-                target="_blank"
-              >
-                <svg
-                  stroke="currentColor"
-                  fill="currentColor"
-                  strokeWidth="0"
-                  viewBox="0 0 320 512"
-                  className="iconHover"
-                  height="1em"
-                  width="1em"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"></path>
-                </svg>
-              </a>
-            </div> */}
           </div>
         </div>
       </div>
@@ -309,44 +288,7 @@ const Logos = () => {
               </svg>
             </a>
           </div>
-          {/* Facebook SVG
-          <div
-            onClick={() => {
-              setGithubSvgClicked(false)
-              setLeetcodeSvgClicked(false)
-              setTwitterSvgClicked(false)
-              setLinkedInSvgClicked(false)
-              setFacebookSvgClicked(true)
-            }}
-            onMouseOver={() => setFacebookSvgHover(true)}
-            onMouseOut={() => setFacebookSvgHover(false)}
-            className="w-[20px] h-[20px] mt-[1px] mb-[15px]"
-          >
-            <a
-              href="https://www.facebook.com/ahmad.jajja.9081/"
-              className="text-[#ccd6f6] text-[1.1rem]"
-              target="_blank"
-            >
-              <svg
-                stroke="currentColor"
-                fill={
-                  facebookSvgClicked
-                    ? "#64ffda"
-                    : facebookSvgHover
-                      ? "#64ffda"
-                      : "#a8b2d1"
-                }
-                strokeWidth="0"
-                viewBox="0 0 320 512"
-                className="iconHover ease-whereIWorkedTransitionTiming duration-whereIWorkedTransitionDuration transition-whereIWorkedTransitionProperty"
-                height="1em"
-                width="1em"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"></path>
-              </svg>
-            </a>
-          </div> */}
+
           {/* Straight Line */}
           <div className="h-[7.187rem] border-[1px] border-[#a8b2d1]"></div>
         </div>
