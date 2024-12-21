@@ -1,21 +1,21 @@
 import React, { useEffect, useRef, useState } from "react";
 import "../Css_applied/thingsBuiltStyles.css";
-import AIPodcastGenerator from "../images/AIPodcasteGenerator.png";
-import AIPodcastGeneratorShaded from "../images/AIPodcasteGeneratorShaded2.jpg";
-import BankApp from "../images/BankApp.png";
-import BankAppShaded from "../images/BankAppShaded2.jpd.jpg";
-import CRUDMERN from "../images/CRUDMERN.png";
-import CRUDMERNShaded2 from "../images/CRUDMERNShaded2.jpg";
-import EcoFactor from "../images/EcoFactor.jpg";
-import EcoFactorShaded from "../images/EcoFactorShaded.jpg";
-import JAVADSA from "../images/JAVADSA.png";
-import JAVADSAShaded from "../images/JAVADSAShaded.jpg";
-import MERNBootcamp from "../images/MERN-Bootcamp.jpg";
-import MERNBootcampShaded from "../images/MERN-BootcampShaded2.jpg";
-import PlantDiseaseDetection from "../images/PlantDiseaseDetection.jpg";
-import PlantDiseaseDetectionShaded from "../images/PlantDiseaseDetectionShaded.jpg";
-import ReatEstateMblApp from "../images/RealEstateMobileApp.png";
-import ReatEstateMblAppShaded from "../images/RealEstateMobileAppShaded2.jpg";
+// import AIPodcastGenerator from "../images/AIPodcasteGenerator.png";
+// import AIPodcastGeneratorShaded from "../images/AIPodcasteGeneratorShaded2.jpg";
+// import BankApp from "../images/BankApp.png";
+// import BankAppShaded from "../images/BankAppShaded2.jpd.jpg";
+// import CRUDMERN from "../images/CRUDMERN.png";
+// import CRUDMERNShaded2 from "../images/CRUDMERNShaded2.jpg";
+// import EcoFactor from "../images/EcoFactor.jpg";
+// import EcoFactorShaded from "../images/EcoFactorShaded.jpg";
+// import JAVADSA from "../images/JAVADSA.png";
+// import JAVADSAShaded from "../images/JAVADSAShaded.jpg";
+// // import MERNBootcamp from "../images/MERN-Bootcamp.jpg";
+// import MERNBootcampShaded from "../images/MERN-BootcampShaded2.jpg";
+// import PlantDiseaseDetection from "../images/PlantDiseaseDetection.jpg";
+// import PlantDiseaseDetectionShaded from "../images/PlantDiseaseDetectionShaded.jpg";
+// import ReatEstateMblApp from "../images/RealEstateMobileApp.png";
+// import ReatEstateMblAppShaded from "../images/RealEstateMobileAppShaded2.jpg";
 const ThingsBuilt = ({ workBtnClickedActive }) => {
   const [ecoFactorThingMouseOver, setEcoFactorThingMOuseOver] = useState(false);
   const [plantThingMouseOver, setPlantThingMOuseOver] = useState(false);
@@ -398,6 +398,43 @@ const ThingsBuilt = ({ workBtnClickedActive }) => {
       requestAnimationFrame(animate);
     }
   }, [workNavClick]);
+
+  // ----------------------------------------------------------------------------------
+
+  const EcoFactor =
+    "https://drive.google.com/uc?export=view&id=1oblqJXCEZOBOstlf9xbT3MNY_QrM2QoB";
+  const PlantDiseaseDetection =
+    "https://drive.google.com/uc?export=view&id=1oblqJXCEZOBOstlf9xbT3MNY_QrM2QoB";
+  const AIPodcastGenerator =
+    "https://drive.google.com/uc?export=view&id=1oblqJXCEZOBOstlf9xbT3MNY_QrM2QoB";
+  const JAVADSA =
+    "https://drive.google.com/uc?export=view&id=1oblqJXCEZOBOstlf9xbT3MNY_QrM2QoB";
+  const BankApp =
+    "https://drive.google.com/uc?export=view&id=1oblqJXCEZOBOstlf9xbT3MNY_QrM2QoB";
+  const ReatEstateMblApp =
+    "https://drive.google.com/uc?export=view&id=1oblqJXCEZOBOstlf9xbT3MNY_QrM2QoB";
+  const CRUDMERN =
+    "https://drive.google.com/uc?export=view&id=1oblqJXCEZOBOstlf9xbT3MNY_QrM2QoB";
+  const MERNBootcamp =
+    "https://drive.google.com/uc?export=view&id=1oblqJXCEZOBOstlf9xbT3MNY_QrM2QoB";
+  const EcoFactorShaded =
+    "https://drive.google.com/uc?export=view&id=1oblqJXCEZOBOstlf9xbT3MNY_QrM2QoB";
+  const PlantDiseaseDetectionShaded =
+    "https://drive.google.com/uc?export=view&id=1oblqJXCEZOBOstlf9xbT3MNY_QrM2QoB";
+  const AIPodcastGeneratorShaded =
+    "https://drive.google.com/uc?export=view&id=1oblqJXCEZOBOstlf9xbT3MNY_QrM2QoB";
+  const JAVADSAShaded =
+    "https://drive.google.com/uc?export=view&id=1oblqJXCEZOBOstlf9xbT3MNY_QrM2QoB";
+  const BankAppShaded =
+    "https://drive.google.com/uc?export=view&id=1oblqJXCEZOBOstlf9xbT3MNY_QrM2QoB";
+  const ReatEstateMblAppShaded =
+    "https://drive.google.com/uc?export=view&id=1oblqJXCEZOBOstlf9xbT3MNY_QrM2QoB";
+  const CRUDMERNShaded2 =
+    "https://drive.google.com/uc?export=view&id=1oblqJXCEZOBOstlf9xbT3MNY_QrM2QoB";
+  const MERNBootcampShaded =
+    "https://drive.google.com/uc?export=view&id=1oblqJXCEZOBOstlf9xbT3MNY_QrM2QoB";
+
+  // ----------------------------------------------------------------------------------
 
   return (
     <div
