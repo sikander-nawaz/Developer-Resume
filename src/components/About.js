@@ -1,7 +1,7 @@
 import React, { useEffect, useRef, useState } from "react";
 import "../Css_applied/aboutStyles.css";
-import DP from "../images/DP.jpg";
-import DPs from "../images/DPs.gif";
+// import DP from "../images/DP.jpg";
+// import DPs from "../images/DPs.gif";
 
 const About = ({ aboutBtnClickedActive }) => {
   const mySecondImage = useRef();
@@ -98,6 +98,11 @@ const About = ({ aboutBtnClickedActive }) => {
       requestAnimationFrame(animate);
     }
   }, [aboutNavClick]);
+
+  const DP =
+    "https://drive.google.com/uc?export=view&id=1oblqJXCEZOBOstlf9xbT3MNY_QrM2QoB";
+  const DPs =
+    "https://drive.google.com/uc?export=view&id=1oblqJXCEZOBOstlf9xbT3MNY_QrM2QoB";
 
   return (
     <div

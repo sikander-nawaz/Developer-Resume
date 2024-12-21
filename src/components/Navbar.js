@@ -464,7 +464,7 @@ const Navbar = ({
                     >
                       Contact
                     </button>
-                    <div className="five  mt-4  flex  justify-center  items-center  bg-[#172a45]  text-[#64ffda]  w-[100%]  text-base antialiased">
+                    {/* <div className="five  mt-4  flex  justify-center  items-center  bg-[#172a45]  text-[#64ffda]  w-[100%]  text-base antialiased">
                       05.
                     </div>
                     <Link
@@ -478,7 +478,7 @@ const Navbar = ({
                       }  bg-[#172a45]  text-lg  py-2  tracking-wide antialiased`}
                     >
                       Blog
-                    </Link>
+                    </Link> */}
                     <a
                       href="https://drive.google.com/file/d/1fgKw7H3PplIenkF-pxfqWdMAnvZcCeA0/view?usp=share_link"
                       className="py-[18px] px-[50px] flex  justify-center  items-center  mt-[4rem]  bg-[#172a45] border  border-[#64ffda]  rounded  font-mono  text-[#64ffda]  tracking-wide cursor-pointer antialiased"
